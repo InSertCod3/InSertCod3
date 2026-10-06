@@ -35,8 +35,8 @@
 
 ### 💡 Certifications
 
-* ☁️ **AWS Certified Solutions Architect – Associate**[cite: 3]
-* ☁️ **Google Cloud Certified Professional Cloud Architect**[cite: 3]
+* ☁️ **AWS Certified Solutions Architect – Associate**
+* ☁️ **Google Cloud Certified Professional Cloud Architect**
 
 ---
 
