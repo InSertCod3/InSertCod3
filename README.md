@@ -1,8 +1,8 @@
 # Hi, I'm Shamoy Baker 👋
 
-**Senior Full Stack Software Engineer & Cloud Application Architect** based in New York[cite: 1]. 
+**Senior Full Stack Software Engineer & Cloud Application Architect** based in New York. 
 
-10+ years of experience architecting distributed systems, AI-driven applications, cross-platform mobile apps, and scalable web platforms across AWS and GCP environments[cite: 1].
+10+ years of experience architecting distributed systems, AI-driven applications, cross-platform mobile apps, and scalable web platforms across AWS and GCP environments.
 
 ---
 
